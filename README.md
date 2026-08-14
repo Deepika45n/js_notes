@@ -1,2 +1,2 @@
 # js_notes
-refe js
+javascript notes
