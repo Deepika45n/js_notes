@@ -35,7 +35,7 @@ console.log(loginUserMessage());
 
 // console.log(calculateCartPrice(20,30,40,50)); // [ 20, 30, 40, 50 ] 
 
-function calculateCartPrice(val1, val2, ...num1){
+function calculateCartPrice(val1, val2, ...num1){//500,2000 becz 200 stores in val1 and 400 v
     return num1
 }
 
